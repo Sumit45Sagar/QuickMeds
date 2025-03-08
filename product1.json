@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Blood Pressure Monitor",
+      "image": "https://example.com/bp-monitor.jpg",
+      "brand": "Omron",
+      "quantity": 10,
+      "category": "medicine",
+      "description": "Digital blood pressure monitor with accurate readings.",
+      "price": 1500,
+      "countInStock": 5,
+      "rating": 4.5,
+      "numReviews": 10
+    },
+    {
+      "name": "Stethoscope",
+      "image": "https://example.com/stethoscope.jpg",
+      "brand": "Littmann",
+      "quantity": 15,
+      "category": "medicine",
+      "description": "High-quality stethoscope for medical professionals.",
+      "price": 3000,
+      "countInStock": 8,
+      "rating": 4.8,
+      "numReviews": 20
+    },
+    {
+      "name": "Infrared Thermometer",
+      "image": "https://example.com/thermometer.jpg",
+      "brand": "Dr. Trust",
+      "quantity": 20,
+      "category": "medicine",
+      "description": "Non-contact infrared thermometer with fast readings.",
+      "price": 1200,
+      "countInStock": 12,
+      "rating": 4.3,
+      "numReviews": 15
+    },
+    {
+      "name": "Pulse Oximeter",
+      "image": "https://example.com/oximeter.jpg",
+      "brand": "BPL",
+      "quantity": 30,
+      "category": "medicine",
+      "description": "Oximeter for measuring blood oxygen levels and pulse rate.",
+      "price": 1000,
+      "countInStock": 10,
+      "rating": 4.7,
+      "numReviews": 25
+    },
+    {
+      "name": "Nebulizer Machine",
+      "image": "https://example.com/nebulizer.jpg",
+      "brand": "Philips",
+      "quantity": 12,
+      "category": "medicine",
+      "description": "Portable nebulizer for respiratory treatments.",
+      "price": 2500,
+      "countInStock": 7,
+      "rating": 4.6,
+      "numReviews": 18
+    },
+    {
+      "name": "Glucometer",
+      "image": "https://example.com/glucometer.jpg",
+      "brand": "Accu-Chek",
+      "quantity": 25,
+      "category": "medicine",
+      "description": "Blood sugar level monitoring device with test strips.",
+      "price": 900,
+      "countInStock": 15,
+      "rating": 4.4,
+      "numReviews": 12
+    },
+    {
+      "name": "Digital Weighing Scale",
+      "image": "https://example.com/weighing-scale.jpg",
+      "brand": "HealthSense",
+      "quantity": 18,
+      "category": "medicine",
+      "description": "Precision digital weighing scale for body weight measurement.",
+      "price": 1800,
+      "countInStock": 9,
+      "rating": 4.5,
+      "numReviews": 10
+    },
+    {
+      "name": "Surgical Face Mask (50 pcs)",
+      "image": "https://example.com/face-mask.jpg",
+      "brand": "3M",
+      "quantity": 50,
+      "category": "medicine",
+      "description": "Disposable 3-layer surgical face mask for protection.",
+      "price": 250,
+      "countInStock": 30,
+      "rating": 4.2,
+      "numReviews": 22
+    }
+  ]
+  
